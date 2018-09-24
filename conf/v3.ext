@@ -4,4 +4,7 @@ keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = woocommerce.io
+DNS.1 = local.io
+DNS.2 = themegrill.io
+DNS.3 = woocommerce.io
+DNS.4 = usagemonitor.io
