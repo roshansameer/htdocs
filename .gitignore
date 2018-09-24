@@ -1,12 +1,12 @@
 */**
+!conf/**
 !favicon/**
-!ssl-conf/**
 
 # SSL
-!ssl-certs/createRootCA.sh
-!ssl-certs/createSelfSigned.sh
-!ssl-certs/server.csr.cnf
-!ssl-certs/v3.ext
+!conf/createRootCA.sh
+!conf/createSelfSigned.sh
+!conf/openssl.cnf
+!conf/v3.ext
 
 # Grunt
 npm-debug.log
