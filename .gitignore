@@ -1,10 +1,9 @@
 */**
+*.key
+*.pem
+*.srl
 !favicon/**
-
-# SSL
-!conf/createRootCA.sh
-!conf/createSelfSigned.sh
-!conf/openssl.cnf
+!conf/server.csr.cnf
 !conf/v3.ext
 
 # Grunt
