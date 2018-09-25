@@ -16,6 +16,9 @@ cd /d/htdocs
 npm i -g hostile
 hostile load hosts-config
 
+# Sign SSL
+./makecert.sh
+
 # Install
 ./install-configs.sh
 ```
