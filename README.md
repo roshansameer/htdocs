@@ -19,7 +19,10 @@ hostile load hosts-config
 # Sign SSL
 ./makecert.sh
 
-# Install
+# Install WP CLI
+./bin/wp-cli-install
+
+# Install Configs
 ./install-configs.sh
 ```
 

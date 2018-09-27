@@ -2,6 +2,7 @@
 *.key
 *.pem
 *.srl
+!bin/**
 !favicon/**
 !conf/server.csr.cnf
 !conf/v3.ext
