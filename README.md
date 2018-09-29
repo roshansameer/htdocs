@@ -29,6 +29,6 @@ hostile load hosts-config
 License
 -------
 
-Copyright (c) 2017 Shiva Poudel  
+Copyright (c) 2018 Shiva Poudel  
 Licensed under the MIT license:  
 <http://shivapoudel.mit-license.org/>
