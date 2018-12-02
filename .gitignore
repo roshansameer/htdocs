@@ -1,6 +1,6 @@
-*/**
 *.key
 *.pem
+*.crt
 *.srl
 !bin/**
 !favicon/**
@@ -10,6 +10,11 @@
 # Grunt
 npm-debug.log
 /node_modules/
+
+# Projects
+/themegrill/
+/woocommerce/
+/usagemonitor/
 
 # OS X metadata
 .DS_Store
